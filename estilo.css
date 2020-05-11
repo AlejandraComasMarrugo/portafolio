@@ -1,0 +1,761 @@
+/* Parámetros Globales de Estilo */
+
+
+h1, h2, h3, h4, h5, h6, p, a  {font-family: 'Roboto', sans-serif; }
+
+a { text-decoration: none}
+
+
+aside#menu-cortina {
+    
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0;
+    float: none;
+    position: fixed;
+    
+    top: 0;
+    right: -100%;
+    z-index: 99991;
+    
+    background: #18142D
+        
+}
+
+
+aside#menu-cortina a#abrir  {}
+aside#menu-cortina a#abrir img  {}
+aside#menu-cortina a#abrir:hover  {}
+aside#menu-cortina a#abrir:hover img  {}
+
+
+
+aside#menu-cortina a#cerrar  {}
+aside#menu-cortina a#cerrar img:hover  {}
+aside#menu-cortina a#cerrar  {}
+aside#menu-cortina a#cerrar img:hover  {}
+
+
+
+aside#menu-cortina nav#menu-idioma-movil {}
+aside#menu-cortina nav#menu-idioma-movil a  {}
+aside#menu-cortina nav#menu-idioma-movil a:hover {}
+
+
+
+header {
+    
+    width: 100%;
+    height: 105px;
+    display: block;
+    margin: 0;
+    float: none;
+    position: fixed;
+    
+    top: 0;
+    left: 0;
+    bottom: 95.55%;
+    z-index: 99990;
+    
+}
+
+
+header article#arriba {
+    
+    width: 1440px;
+    height: 35px;
+    display: block;   
+    margin: 0;
+    float: none;
+    position: relative;
+
+    background: #D14444
+}
+
+
+header article#arriba h5 {
+    
+    width: 100%;
+    height: 35px;
+    display: block;   
+    margin: 0;
+    float: right;
+    position: relative;
+
+    left: 50.14%;
+    right: 17.43%;
+    top: 10px;
+    bottom: 99.21%;
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 13px;
+    align-items: center;
+    color: #DFDDDD;
+        
+}
+
+
+header article#arriba nav#menu-idiomas {
+    
+    width: 0;
+    height: 0;
+    display: block;
+    margin: 0 auto;
+    float: right;
+    position: relative;
+    
+    left: 0;
+    top: 0 ;
+}
+
+header article#arriba nav#menu-idiomas a#espanol {
+
+    width: 100%;
+    height: 0px;
+    display: block;
+    margin: 0 auto;
+    float: right;
+    position: relative;  
+    
+    left: 1233px;
+    top: 6px;
+    
+}
+
+header article#arriba nav#menu-idiomas a#espanol:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in;
+}
+header article#arriba nav#menu-idiomas a#espanol img {
+    
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+
+
+
+header article#arriba nav#menu-idiomas a#ingles {
+    
+    width: 100%;
+    height: 0px;
+    display: block;
+    margin: 0 auto;
+    float: right;
+    position: relative;  
+    
+    left: 1284px;
+    top: 6px;
+    
+}
+
+header article#arriba nav#menu-idiomas a#ingles:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in;
+}
+header article#arriba nav#menu-idiomas a#ingles img {
+    
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    
+}     
+
+
+
+header article#abajo {
+  
+    width: 1440px;
+    height: 70px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;   
+    
+    top: 0px;
+    background: #F55E5E
+        
+}
+
+
+
+header article#abajo a#logo {
+  
+    width: 260px;
+    height: 60px;
+    display: block;
+    margin: 5px 0 15px;
+    float: left;
+    position: relative; 
+    
+    left: 100px;
+    top: 0;
+    
+    transition: all 0.2s ease-in;
+    
+}
+
+header article#abajo a#logo:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in;
+    
+}
+
+
+
+header article#abajo a#logo img {
+   
+    width: 275px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+
+}
+
+
+header article#abajo nav#menu-principal a#inicio {
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    position: relative;  
+    
+    left: 240px;
+    right: 100px;
+    top: 28px;
+    bottom: 97.92%;
+}
+
+header article#abajo nav#menu-principal a#inicio:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in; 
+    
+    
+}
+
+header article#abajo nav#menu-principal a#sobremi {
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    position: relative;  
+    
+    left: 285px;
+    right: 100px;
+    top: 28px;
+    bottom: 97.92%;
+    
+}
+
+header article#abajo nav#menu-principal a#sobremi:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in; 
+}
+
+header article#abajo nav#menu-principal a#identidadcorporativa {
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    position: relative;  
+    
+    left: 326px;
+    right: 100px;
+    top: 28px;
+    bottom: 97.92%;
+    
+}
+
+header article#abajo nav#menu-principal a#identidadcorporativa:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in; 
+}
+
+header article#abajo nav#menu-principal a#ilustracion {
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    position: relative;  
+    
+    left: 362px;
+    right: 100px;
+    top: 28px;
+    bottom: 97.92%;
+    
+}
+
+header article#abajo nav#menu-principal a#ilustracion:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in;
+}
+
+header article#abajo nav#menu-principal a#fotografia {
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    position: relative;  
+    
+    left: 400px;
+    right: 100px;
+    top: 28px;
+    bottom: 97.92%;
+    
+}
+
+header article#abajo nav#menu-principal a#fotografia:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in;
+    
+}
+    
+
+header article#abajo nav#menu-principal a#contacto {
+    
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    position: relative;  
+    
+    left: 426px;
+    right: 100px;
+    top: 28px;
+    bottom: 97.92%;
+      
+
+    
+}
+
+header article#abajo nav#menu-principal a#contacto:hover {
+    
+    opacity: 0.5;
+    transition: all 0.2s ease-in;
+    
+}
+
+
+
+main {
+    
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 100px auto 0 auto;
+    float: none;
+    position: relative;
+    
+    }
+
+main section#alejandracomas { 
+
+    width: 1440px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+
+}
+main section#alejandracomas article#alejandracomas {     
+    
+    
+    width: 430px;
+    height: 580px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+main section#alejandracomas article#alejandracomas div#parrafo1 { }
+main section#alejandracomas article#alejandracomas div#parrafo1 h1 { }
+main section#alejandracomas article#alejandracomas div#parrafo1 p { }
+main section#alejandracomas article#alejandracomas div#parrafo1 p1 { }
+main section#alejandracomas article#alejandracomas div#parrafo1 a { }
+main section#alejandracomas article#alejandracomas div#parrafo1 figure  { }
+main section#alejandracomas article#alejandracomas div#parrafo1 img  { 
+    
+position: absolute;
+width: 793px;
+height: 400px;
+left: 500px;
+top: 190px;
+}
+
+main section#servicios {
+
+    width: 1440px;
+    height: 650px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #F55E5E
+}
+main section#servicios h2 { }
+main section#servicios article#identidadcorporativa { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa img { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa h3 { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa p { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa a { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa a img { }
+
+
+main section#servicios article#ilustracion { }
+main section#servicios article#ilustracion div#ilustracion { }
+main section#servicios article#ilustracion div#ilustracion img { }
+main section#servicios article#ilustracion div#ilustracion h3 { }
+main section#servicios article#ilustracion div#ilustracion p { }
+main section#servicios article#ilustracion div#ilustracion a { }
+main section#servicios article#ilustracion div#ilustracion a img { }
+
+
+main section#servicios article#fotografia { }
+main section#servicios article#fotografia div#fotografia { }
+main section#servicios article#fotografia div#fotografia img { }
+main section#servicios article#fotografia div#fotografia h3 { }
+main section#servicios article#fotografia div#fotografia p { }
+main section#servicios article#fotografia div#fotografia a { }
+main section#servicios article#fotografia div#fotografia a img { }
+
+
+main section#identidadcorporativa2 { 
+
+    width: 1440px;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #ECEAEA
+
+}
+main section#identidadcorporativa2 article#identidadcorporativa2 { }
+main section#identidadcorporativa2 article#identidadcorporativa2 figure { }
+main section#identidadcorporativa2 article#identidadcorporativa2 figure img { }
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 { }
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 h2 { }
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 p { }
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 a { }
+
+
+main section#ilustracion2 {
+
+    width: 1440px;
+    height: 750px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #FFFFFF }
+
+
+main section#ilustracion2 h2 { }
+main section#ilustracion2 article#ilustracion2 { }
+main section#ilustracion2 article#ilustracion2 figure { }
+main section#ilustracion2 article#ilustracion2 figure img { }
+main section#ilustracion2 article#ilustracion2 a { }
+main section#ilustracion2 article#ilustracion2 a:hover { }
+
+main section#fotografia2 { 
+
+    width: 1440px;
+    height: 750px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #F3F0F0 
+}
+
+main section#fotografia2 article#fotofrafia2 { }
+main section#fotografia2 article#fotofrafia2 div#fotografia2 { }
+main section#fotografia2 article#fotofrafia2 div#fotografia2 h2 { }
+main section#fotografia2 article#fotofrafia2 div#fotografia2 p { }
+main section#fotografia2 article#fotofrafia2 div#fotografia2 a { }
+main section#fotografia2 article#fotofrafia2 div#fotografia2 a:hover { }
+main section#fotografia2 figure { }
+main section#fotografia2 figure img { }
+
+
+main section#gustoenconocerte { }
+main section#gustoenconocerte article#gustoenconocerte { }
+main section#gustoenconocerte article#gustoenconocerte div#parrafo1 { }
+main section#gustoenconocerte article#gustoenconocerte div#fotografia2 h1 { }
+main section#gustoenconocerte article#gustoenconocerte div#fotografia2 p { }
+main section#gustoenconocerte figure { }
+main section#gustoenconocerte figure img { }
+
+
+main section#servicios { }
+main section#servicios article#experiencia { }
+main section#servicios article#experiencia div#experiencia { }
+main section#servicios article#experiencia div#experiencia img { }
+main section#servicios article#experiencia div#experiencia h3 { }
+main section#servicios article#experiencia div#experiencia p { }
+
+
+main section#servicios { }
+main section#servicios article#conocimiento { }
+main section#servicios article#conocimiento div#conocimiento { }
+main section#servicios article#conocimiento div#conocimiento img { }
+main section#servicios article#conocimiento div#conocimiento h3 { }
+main section#servicios article#conocimiento div#conocimiento p { }
+
+
+main section#servicios { }
+main section#servicios article#pasion { }
+main section#servicios article#pasion div#pasion { }
+main section#servicios article#pasion div#pasion img { }
+main section#servicios article#pasion div#pasion h3 { }
+main section#servicios article#pasion div#pasion p { }
+
+
+main section#fundacioncecamilo1 { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 figure { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 figure img { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 h2 { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 p { }
+
+
+main section#identidadcorporativa { }
+main section#identidadcorporativa article#identidadcorporativa { }
+main section#identidadcorporativa article#identidadcorporativa div#parrafo1 { }
+main section#identidadcorporativa article#identidadcorporativa div#parrafo1 h1 { }
+main section#identidadcorporativa article#identidadcorporativa div#parrafo1 p { }
+main section#identidadcorporativa figure
+main section#identidadcorporativa figure img
+
+
+main section#proyectos { }
+main section#proyectos h3 { }
+main section#proyectos article#riodefuego { }
+main section#proyectos article#riodefuego div#riodefuego { }
+main section#proyectos article#riodefuego div#riodefuego img { }
+main section#proyectos article#riodefuego div#riodefuego p { }
+
+
+main section#proyectos { }
+main section#proyectos h3 { }
+main section#proyectos article#appdelcaribe { }
+main section#proyectos article#appdelcaribe div#appdelcaribe { }
+main section#proyectos article#appdelcaribe div#appdelcaribe img { }
+main section#proyectos article#appdelcaribe div#appdelcaribe p { }
+
+
+main section#proyectos { }
+main section#proyectos h3 { }
+main section#proyectos article#amatista { }
+main section#proyectos article#amatista div#amatista { }
+main section#proyectos article#amatista div#amatista img { }
+main section#proyectos article#amatista div#amatista p { }
+
+
+main section#fundacioncecamilo { }
+main section#fundacioncecamilo article#fundacioncecamilo { }
+main section#fundacioncecamilo article#fundacioncecamilo figure { }
+main section#fundacioncecamilo article#fundacioncecamilo figure img { }
+main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo { }
+main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo h2 { }
+main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo p { }
+
+
+main section#riodefuego { }
+main section#riodefuego article#riodefuego { }
+main section#riodefuego article#riodefuego div#riodefuego { }
+main section#riodefuego article#riodefuego div#riodefuego p { }
+main section#riodefuego article#riodefuego figure { }
+main section#riodefuego article#riodefuego figure img { }
+
+
+main section#cuadros { }
+main section#cuadros article#cuadros { }
+main section#cuadros article#cuadros div#cuadros { }
+main section#cuadros article#cuadros div#cuadros h3 { }
+main section#cuadros article#cuadros figure { }
+main section#cuadros article#cuadros figure img { }
+
+
+main section#ilustracion { }
+main section#ilustracion article#ilustracion { }
+main section#ilustracion article#ilustracion div#parrafo1 { }
+main section#ilustracion article#ilustracion div#parrafo1 h1 { }
+main section#ilustracion article#ilustracion div#parrafo1 p { }
+main section#ilustracion figure
+main section#ilustracion figure img
+
+
+main section#plantas { }
+main section#plantas h3 { }
+main section#plantas article#dionaea { }
+main section#plantas article#dionaea div#dionaea { }
+main section#plantas article#dionaea div#dionaea img { }
+main section#plantas article#dionaea div#dionaea p { }
+
+
+main section#plantas { }
+main section#plantas article#cactus { }
+main section#plantas article#cactus div#cactus { }
+main section#plantas article#cactus div#cactus img { }
+main section#plantas article#cactus div#cactus p { }
+
+
+main section#plantas { }
+main section#plantas h3 { }
+main section#plantas article#sarracenia { }
+main section#plantas article#sarracenia div#sarracenia { }
+main section#plantas article#sarracenia div#sarracenia img { }
+main section#plantas article#sarracenia div#sarracenia p { }
+
+
+main section#iconos { }
+main section#iconos h3 { }
+main section#iconos article#animales { }
+main section#iconos article#animales figure { }
+main section#iconos article#animales figure img { }
+
+
+main section#caa { }
+main section#caa article#caa { }
+main section#caa article#caa div#caa { }
+main section#caa article#caa div#caa h3 { }
+main section#caa figure { }
+main section#caa figure img { }
+
+
+main section#fotografia { }
+main section#fotografia article#fotografia { }
+main section#fotografia article#fotografia div#parrafo1 { }
+main section#fotografia article#fotografia div#parrafo1 h1 { }
+main section#fotografia article#fotografia div#parrafo1 p { }
+main section#fotografia figure
+main section#fotografia figure img
+
+
+main section#espacios { }
+main section#espacios h3
+main section#espacios article#zonasverdes div#zonasverdes { }
+main section#espacios article#zonasverdes div#zonasverdes img { }
+main section#espacios article#zonasverdes div#zonasverdes p { }
+
+
+main section#espacios { }
+main section#espacios article#discapacidad div#discapacidad { }
+main section#espacios article#discapacidad div#discapacidad img { }
+main section#espacios article#discapacidad div#discapacidad p { }
+
+
+main section#espacios { }
+main section#espacios article#mar div#mar { }
+main section#espacios article#mar div#mar img { }
+main section#espacios article#mar div#mar p { }
+
+
+main section#muelle { }
+main section#muelle h3 { }
+main section#muelle article#mar article { }
+main section#muelle article#mar article figure { }
+main section#muelle article#mar article figure img { }
+
+
+main section#variedadplantas { }
+main section#variedadplantas h3 { }
+main section#variedadplantas article#plantas figure { }
+main section#variedadplantas article#plantas figure img { }
+
+
+
+
+
+footer {
+    
+    width: 1440px;
+    height: 800px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+    background: #18142D
+    
+    }
+
+
+footer nav#menu-redes {}
+
+footer nav#menu-redes a#behance {
+    
+    float: left;
+    left: 165px;
+    top: 40px;
+}
+footer nav#menu-redes a#instagram {
+    
+    float: left;
+    left: 283px;
+    top: 40px;
+}
+footer nav#menu-redes a#facebook {
+     
+    float: none;
+    left: 401px;
+    top: 40px;
+}
+
+footer a#logo-footer {
+    
+    width: 260px;
+    height: 60px;
+    left: 147px;
+    top: 3954px;
+}
+
+@media only screen and (max-width: 1199px){
+    
+    aside#menu-cortina {
+    
+    right: -100%;
+    
+}
+    
+@media only screen and (max-width: 1099px){
+    
+    aside#menu-cortina {
+    
+}
+
