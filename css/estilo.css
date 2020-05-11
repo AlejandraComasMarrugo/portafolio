@@ -352,10 +352,8 @@ header article#abajo nav#menu-principal a#contacto {
     left: 426px;
     right: 100px;
     top: 28px;
-    bottom: 97.92%;
-      
 
-    
+      
 }
 
 header article#abajo nav#menu-principal a#contacto:hover {
@@ -388,30 +386,57 @@ main section#alejandracomas {
     position: relative; 
 
 }
-main section#alejandracomas article#alejandracomas {     
+main section#alejandracomas article#alejandracomas {   
     
-    
-    width: 430px;
-    height: 580px;
+    width: 1440px;
+    height: 580;
     display: block;
     margin: 0 auto;
     float: none;
     position: relative;
     
 }
+main section#alejandracomas article#alejandracomas div#parrafo1 { 
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 20%;
+    bottom: 10%;
+
+}
+
+main section#alejandracomas article#alejandracomas div#parrafo1 h1 { 
+
+    color: #494949;
+
+}
+
 main section#alejandracomas article#alejandracomas div#parrafo1 { }
-main section#alejandracomas article#alejandracomas div#parrafo1 h1 { }
-main section#alejandracomas article#alejandracomas div#parrafo1 p { }
-main section#alejandracomas article#alejandracomas div#parrafo1 p1 { }
-main section#alejandracomas article#alejandracomas div#parrafo1 a { }
-main section#alejandracomas article#alejandracomas div#parrafo1 figure  { }
-main section#alejandracomas article#alejandracomas div#parrafo1 img  { 
+
+main section#alejandracomas article#alejandracomas div#parrafo1 p { 
     
-position: absolute;
-width: 793px;
-height: 400px;
-left: 500px;
-top: 190px;
+    line-height: 27px;
+    color: #494949;
+
+}
+main section#alejandracomas article#alejandracomas div#parrafo1 a { 
+
+
+    color: #FFFFFF;
+    background: #F55E5E;
+    border-radius: 8px;
+
+}
+
+main section#alejandracomas article#alejandracomas figure { }
+
+main section#alejandracomas article#alejandracomas figure img {        
+    
+    margin: 80px 50px 200px 450px; 
+    
 }
 
 main section#servicios {
@@ -419,37 +444,131 @@ main section#servicios {
     width: 1440px;
     height: 650px;
     display: block;
-    margin: 0 auto;
+    margin: -50px 0px -16px 0px;
     float: none;
     position: relative; 
     background: #F55E5E
 }
-main section#servicios h2 { }
+main section#servicios h2 { 
+    
+    position: absolute;
+    left: 43.26%;
+    right: 43.12%;
+    top: 12%;
+    bottom: 81.59%;
+    color: white
+    
+}
 main section#servicios article#identidadcorporativa { }
-main section#servicios article#identidadcorporativa div#identidadcorporativa { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa { 
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 186px;
+    right: 100px;
+    top: 30%;
+    bottom: 10%;
+
+}
 main section#servicios article#identidadcorporativa div#identidadcorporativa img { }
-main section#servicios article#identidadcorporativa div#identidadcorporativa h3 { }
-main section#servicios article#identidadcorporativa div#identidadcorporativa p { }
-main section#servicios article#identidadcorporativa div#identidadcorporativa a { }
-main section#servicios article#identidadcorporativa div#identidadcorporativa a img { }
+main section#servicios article#identidadcorporativa div#identidadcorporativa h3 {
+
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main section#servicios article#identidadcorporativa div#identidadcorporativa p { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main section#servicios article#identidadcorporativa div#identidadcorporativa a {}
+main section#servicios article#identidadcorporativa div#identidadcorporativa a img {
+    
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 80px;
+    top: 350px;
+    
+}
 
 
 main section#servicios article#ilustracion { }
-main section#servicios article#ilustracion div#ilustracion { }
+main section#servicios article#ilustracion div#ilustracion { 
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 568px;
+    right: 400px%;
+    top: 30%;
+    bottom: 10%;
+}
+
 main section#servicios article#ilustracion div#ilustracion img { }
-main section#servicios article#ilustracion div#ilustracion h3 { }
-main section#servicios article#ilustracion div#ilustracion p { }
+main section#servicios article#ilustracion div#ilustracion h3 {
+    
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main section#servicios article#ilustracion div#ilustracion p { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
 main section#servicios article#ilustracion div#ilustracion a { }
-main section#servicios article#ilustracion div#ilustracion a img { }
+main section#servicios article#ilustracion div#ilustracion a img { 
+
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 80px;
+    top: 370px;
+
+}
 
 
 main section#servicios article#fotografia { }
-main section#servicios article#fotografia div#fotografia { }
+main section#servicios article#fotografia div#fotografia { 
+    
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 950px;
+    right: 700px;
+    top: 30%;
+    bottom: 10%;
+
+}
 main section#servicios article#fotografia div#fotografia img { }
-main section#servicios article#fotografia div#fotografia h3 { }
-main section#servicios article#fotografia div#fotografia p { }
+main section#servicios article#fotografia div#fotografia h3 { 
+    
+    text-align: center;
+    color: #FFFFFF;
+}
+main section#servicios article#fotografia div#fotografia p { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
 main section#servicios article#fotografia div#fotografia a { }
-main section#servicios article#fotografia div#fotografia a img { }
+main section#servicios article#fotografia div#fotografia a img { 
+
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 80px;
+    top: 350px;
+
+}
 
 
 main section#identidadcorporativa2 { 
@@ -465,11 +584,44 @@ main section#identidadcorporativa2 {
 }
 main section#identidadcorporativa2 article#identidadcorporativa2 { }
 main section#identidadcorporativa2 article#identidadcorporativa2 figure { }
-main section#identidadcorporativa2 article#identidadcorporativa2 figure img { }
-main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 { }
-main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 h2 { }
-main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 p { }
-main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 a { }
+main section#identidadcorporativa2 article#identidadcorporativa2 figure img { 
+
+
+    left: 100px;
+    right: 500px;
+    top: 150px;
+    bottom: 0%;
+    position: relative;
+    
+}
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 { 
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 65%;
+    right: 10%;
+    top: 30%;
+    bottom: 10%;
+
+}
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 h2 { 
+    
+    color: #494949;
+
+}
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 p { 
+    
+    line-height: 27px;
+    color: #494949;
+
+}
+main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 a { 
+
+    color: #FFFFFF;
+    background: #F55E5E;
+    border-radius: 8px;
+}
 
 
 main section#ilustracion2 {
@@ -483,12 +635,41 @@ main section#ilustracion2 {
     background: #FFFFFF }
 
 
-main section#ilustracion2 h2 { }
+main section#ilustracion2 h2 { 
+    
+    position: absolute;
+    left: 43.19%;
+    right: 43.19%;
+    top: 10%;
+    bottom: 50%;
+    color: #696464;
+
+}
 main section#ilustracion2 article#ilustracion2 { }
 main section#ilustracion2 article#ilustracion2 figure { }
-main section#ilustracion2 article#ilustracion2 figure img { }
-main section#ilustracion2 article#ilustracion2 a { }
-main section#ilustracion2 article#ilustracion2 a:hover { }
+main section#ilustracion2 article#ilustracion2 figure img {     
+    
+   margin: 150px 55px 0px 0px; 
+    
+}
+main section#ilustracion2 article#ilustracion2 a {
+
+    position: absolute;
+    left: 45%;
+    right: 43.19%;
+    top: 85%;
+    bottom: 10%;
+    color: #FFFFFF;
+    background: #F55E5E;
+    border-radius: 8px;
+
+
+}
+main section#ilustracion2 article#ilustracion2 a:hover { 
+
+    color: #F3F0F0;
+
+}
 
 main section#fotografia2 { 
 
@@ -501,14 +682,85 @@ main section#fotografia2 {
     background: #F3F0F0 
 }
 
-main section#fotografia2 article#fotofrafia2 { }
-main section#fotografia2 article#fotofrafia2 div#fotografia2 { }
-main section#fotografia2 article#fotofrafia2 div#fotografia2 h2 { }
-main section#fotografia2 article#fotofrafia2 div#fotografia2 p { }
-main section#fotografia2 article#fotofrafia2 div#fotografia2 a { }
-main section#fotografia2 article#fotofrafia2 div#fotografia2 a:hover { }
+main section#fotografia2 article#fotografia2 { }
+main section#fotografia2 article#fotografia2 div#fotografia2 { 
+   
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 30%;
+    bottom: 10%;
+}
+main section#fotografia2 article#fotografia2 div#fotografia2 h2 { 
+
+    color: #494949;
+}
+main section#fotografia2 article#fotografia2 div#fotografia2 p { 
+    
+    line-height: 27px;
+    color: #494949;
+
+}
+main section#fotografia2 article#fotografia2 div#fotografia2 a { 
+
+    color: #FFFFFF;
+    background: #F55E5E;
+    border-radius: 8px;
+}
+main section#fotografia2 article#fotografia2 div#fotografia2 a:hover { }
 main section#fotografia2 figure { }
-main section#fotografia2 figure img { }
+main section#fotografia2 figure img { 
+    
+    margin: 150px 55px 0px 550px;  
+
+}
+
+
+
+footer {     
+    
+    width: 100%;
+    height: 800px;
+    display: block;
+    margin:  0 auto;
+    float: none;
+    position: relative;
+    background: #18142D;
+}
+
+
+footer section#alejandracomas { }
+footer section#alejandracomas nav#menuredes  {    
+    
+    left: 50px;
+    right; 100px;
+    top; 50px;
+    bottom: 250px;
+    display: block;
+    position: relative;
+    margin: 0px 0px 0px -30px;
+
+    
+}
+
+
+footer section#alejandracomas nav#menuredes  a  { }
+footer section#alejandracomas  a img { 
+
+    left: 150px;
+    right; 600px;
+    margin: 0px 80px 0px 0px;
+    top; 600px;
+    bottom: -450px;
+    position: relative;
+}
+
+
+
+footer article#formulario  { }
+
 
 
 main section#gustoenconocerte { }
