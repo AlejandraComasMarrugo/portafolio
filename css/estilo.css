@@ -512,6 +512,7 @@ main section#servicios article#ilustracion div#ilustracion {
 main section#servicios article#ilustracion div#ilustracion img { }
 main section#servicios article#ilustracion div#ilustracion h3 {
     
+    line-height: 21px;
     color: #FFFFFF;
     text-align: center;
 }
@@ -547,12 +548,14 @@ main section#servicios article#fotografia div#fotografia {
     bottom: 10%;
 
 }
+
 main section#servicios article#fotografia div#fotografia img { }
 main section#servicios article#fotografia div#fotografia h3 { 
     
     text-align: center;
     color: #FFFFFF;
 }
+
 main section#servicios article#fotografia div#fotografia p { 
 
     line-height: 21px;
@@ -605,6 +608,7 @@ main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 {
     bottom: 10%;
 
 }
+
 main section#identidadcorporativa2 article#identidadcorporativa2 div#parrafo2 h2 { 
     
     color: #494949;
@@ -645,6 +649,7 @@ main section#ilustracion2 h2 {
     color: #696464;
 
 }
+
 main section#ilustracion2 article#ilustracion2 { }
 main section#ilustracion2 article#ilustracion2 figure { }
 main section#ilustracion2 article#ilustracion2 figure img {     
@@ -652,6 +657,7 @@ main section#ilustracion2 article#ilustracion2 figure img {
    margin: 150px 55px 0px 0px; 
     
 }
+
 main section#ilustracion2 article#ilustracion2 a {
 
     position: absolute;
@@ -665,6 +671,7 @@ main section#ilustracion2 article#ilustracion2 a {
 
 
 }
+
 main section#ilustracion2 article#ilustracion2 a:hover { 
 
     color: #F3F0F0;
@@ -693,22 +700,26 @@ main section#fotografia2 article#fotografia2 div#fotografia2 {
     top: 30%;
     bottom: 10%;
 }
+
 main section#fotografia2 article#fotografia2 div#fotografia2 h2 { 
 
     color: #494949;
 }
+
 main section#fotografia2 article#fotografia2 div#fotografia2 p { 
     
     line-height: 27px;
     color: #494949;
 
 }
+
 main section#fotografia2 article#fotografia2 div#fotografia2 a { 
 
     color: #FFFFFF;
     background: #F55E5E;
     border-radius: 8px;
 }
+
 main section#fotografia2 article#fotografia2 div#fotografia2 a:hover { }
 main section#fotografia2 figure { }
 main section#fotografia2 figure img { 
@@ -759,242 +770,1221 @@ footer section#alejandracomas  a img {
 
 
 
-footer article#formulario  { }
+footer section#alejandracomas article#formulario { }
+
+footer section#alejandracomas article#formulario div#formulario {
+
+    left: 700px;
+    right; 100px;
+    margin: 0px 80px 0px 0px;
+    top; 100px;
+    bottom: 0px;
+    position: relative;
+
+}
 
 
-
-main section#gustoenconocerte { }
-main section#gustoenconocerte article#gustoenconocerte { }
-main section#gustoenconocerte article#gustoenconocerte div#parrafo1 { }
-main section#gustoenconocerte article#gustoenconocerte div#fotografia2 h1 { }
-main section#gustoenconocerte article#gustoenconocerte div#fotografia2 p { }
-main section#gustoenconocerte figure { }
-main section#gustoenconocerte figure img { }
-
-
-main section#servicios { }
-main section#servicios article#experiencia { }
-main section#servicios article#experiencia div#experiencia { }
-main section#servicios article#experiencia div#experiencia img { }
-main section#servicios article#experiencia div#experiencia h3 { }
-main section#servicios article#experiencia div#experiencia p { }
+main #gustoenconocerte {
+    
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 100px auto 0 auto;
+    float: none;
+    position: relative;
 
 
-main section#servicios { }
-main section#servicios article#conocimiento { }
-main section#servicios article#conocimiento div#conocimiento { }
-main section#servicios article#conocimiento div#conocimiento img { }
-main section#servicios article#conocimiento div#conocimiento h3 { }
-main section#servicios article#conocimiento div#conocimiento p { }
+}
 
 
-main section#servicios { }
-main section#servicios article#pasion { }
-main section#servicios article#pasion div#pasion { }
-main section#servicios article#pasion div#pasion img { }
-main section#servicios article#pasion div#pasion h3 { }
-main section#servicios article#pasion div#pasion p { }
-
-
-main section#fundacioncecamilo1 { }
-main section#fundacioncecamilo1 article#fundacioncecamilo1 { }
-main section#fundacioncecamilo1 article#fundacioncecamilo1 figure { }
-main section#fundacioncecamilo1 article#fundacioncecamilo1 figure img { }
-main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 { }
-main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 h2 { }
-main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 p { }
-
-
-main section#identidadcorporativa { }
-main section#identidadcorporativa article#identidadcorporativa { }
-main section#identidadcorporativa article#identidadcorporativa div#parrafo1 { }
-main section#identidadcorporativa article#identidadcorporativa div#parrafo1 h1 { }
-main section#identidadcorporativa article#identidadcorporativa div#parrafo1 p { }
-main section#identidadcorporativa figure
-main section#identidadcorporativa figure img
-
-
-main section#proyectos { }
-main section#proyectos h3 { }
-main section#proyectos article#riodefuego { }
-main section#proyectos article#riodefuego div#riodefuego { }
-main section#proyectos article#riodefuego div#riodefuego img { }
-main section#proyectos article#riodefuego div#riodefuego p { }
-
-
-main section#proyectos { }
-main section#proyectos h3 { }
-main section#proyectos article#appdelcaribe { }
-main section#proyectos article#appdelcaribe div#appdelcaribe { }
-main section#proyectos article#appdelcaribe div#appdelcaribe img { }
-main section#proyectos article#appdelcaribe div#appdelcaribe p { }
-
-
-main section#proyectos { }
-main section#proyectos h3 { }
-main section#proyectos article#amatista { }
-main section#proyectos article#amatista div#amatista { }
-main section#proyectos article#amatista div#amatista img { }
-main section#proyectos article#amatista div#amatista p { }
-
-
-main section#fundacioncecamilo { }
-main section#fundacioncecamilo article#fundacioncecamilo { }
-main section#fundacioncecamilo article#fundacioncecamilo figure { }
-main section#fundacioncecamilo article#fundacioncecamilo figure img { }
-main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo { }
-main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo h2 { }
-main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo p { }
-
-
-main section#riodefuego { }
-main section#riodefuego article#riodefuego { }
-main section#riodefuego article#riodefuego div#riodefuego { }
-main section#riodefuego article#riodefuego div#riodefuego p { }
-main section#riodefuego article#riodefuego figure { }
-main section#riodefuego article#riodefuego figure img { }
-
-
-main section#cuadros { }
-main section#cuadros article#cuadros { }
-main section#cuadros article#cuadros div#cuadros { }
-main section#cuadros article#cuadros div#cuadros h3 { }
-main section#cuadros article#cuadros figure { }
-main section#cuadros article#cuadros figure img { }
-
-
-main section#ilustracion { }
-main section#ilustracion article#ilustracion { }
-main section#ilustracion article#ilustracion div#parrafo1 { }
-main section#ilustracion article#ilustracion div#parrafo1 h1 { }
-main section#ilustracion article#ilustracion div#parrafo1 p { }
-main section#ilustracion figure
-main section#ilustracion figure img
-
-
-main section#plantas { }
-main section#plantas h3 { }
-main section#plantas article#dionaea { }
-main section#plantas article#dionaea div#dionaea { }
-main section#plantas article#dionaea div#dionaea img { }
-main section#plantas article#dionaea div#dionaea p { }
-
-
-main section#plantas { }
-main section#plantas article#cactus { }
-main section#plantas article#cactus div#cactus { }
-main section#plantas article#cactus div#cactus img { }
-main section#plantas article#cactus div#cactus p { }
-
-
-main section#plantas { }
-main section#plantas h3 { }
-main section#plantas article#sarracenia { }
-main section#plantas article#sarracenia div#sarracenia { }
-main section#plantas article#sarracenia div#sarracenia img { }
-main section#plantas article#sarracenia div#sarracenia p { }
-
-
-main section#iconos { }
-main section#iconos h3 { }
-main section#iconos article#animales { }
-main section#iconos article#animales figure { }
-main section#iconos article#animales figure img { }
-
-
-main section#caa { }
-main section#caa article#caa { }
-main section#caa article#caa div#caa { }
-main section#caa article#caa div#caa h3 { }
-main section#caa figure { }
-main section#caa figure img { }
-
-
-main section#fotografia { }
-main section#fotografia article#fotografia { }
-main section#fotografia article#fotografia div#parrafo1 { }
-main section#fotografia article#fotografia div#parrafo1 h1 { }
-main section#fotografia article#fotografia div#parrafo1 p { }
-main section#fotografia figure
-main section#fotografia figure img
-
-
-main section#espacios { }
-main section#espacios h3
-main section#espacios article#zonasverdes div#zonasverdes { }
-main section#espacios article#zonasverdes div#zonasverdes img { }
-main section#espacios article#zonasverdes div#zonasverdes p { }
-
-
-main section#espacios { }
-main section#espacios article#discapacidad div#discapacidad { }
-main section#espacios article#discapacidad div#discapacidad img { }
-main section#espacios article#discapacidad div#discapacidad p { }
-
-
-main section#espacios { }
-main section#espacios article#mar div#mar { }
-main section#espacios article#mar div#mar img { }
-main section#espacios article#mar div#mar p { }
-
-
-main section#muelle { }
-main section#muelle h3 { }
-main section#muelle article#mar article { }
-main section#muelle article#mar article figure { }
-main section#muelle article#mar article figure img { }
-
-
-main section#variedadplantas { }
-main section#variedadplantas h3 { }
-main section#variedadplantas article#plantas figure { }
-main section#variedadplantas article#plantas figure img { }
-
-
-
-
-
-footer {
+main section#gustoenconocerte  {     
     
     width: 1440px;
-    height: 800px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+
+}
+
+
+main section#gustoenconocerte article#gustoenconocerte {
+    
+    width: 1440px;
+    height: 580;
     display: block;
     margin: 0 auto;
     float: none;
     position: relative;
-    
-    background: #18142D
-    
-    }
 
-
-footer nav#menu-redes {}
-
-footer nav#menu-redes a#behance {
-    
-    float: left;
-    left: 165px;
-    top: 40px;
 }
-footer nav#menu-redes a#instagram {
-    
-    float: left;
-    left: 283px;
-    top: 40px;
+main section#gustoenconocerte article#gustoenconocerte div#parrafo1 { 
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 130px;
+    bottom: 100px;
+    color: 696464
+
+
 }
-footer nav#menu-redes a#facebook {
-     
+main section#gustoenconocerte article#gustoenconocerte div#parrafo1 h1 { 
+
+    color: #494949;
+    line-height: 27px;
+    
+}
+main section#gustoenconocerte article#gustoenconocerte div#parrafo1 p { 
+
+    line-height: 27px;
+    color: #494949;
+    
+
+}
+
+
+main section#gustoenconocerte article#gustoenconocerte div#parrafo1 a { 
+
+    color: #FFFFFF;
+    background: #F55E5E;
+    border-radius: 8px;
+
+}
+
+main section#gustoenconocerte figure { }
+main section#gustoenconocerte figure img {
+
+
+    margin: 80px 50px 200px 450px; 
+
+}
+
+
+main section#servicios { 
+
+    width: 1440px;
+    height: 650px;
+    display: block;
+    margin: -50px 0px -16px 0px;
     float: none;
-    left: 401px;
-    top: 40px;
+    position: relative; 
+    background: #F55E5E
+
 }
 
-footer a#logo-footer {
+main section#servicios h2 {     
     
-    width: 260px;
-    height: 60px;
-    left: 147px;
-    top: 3954px;
+    position: absolute;
+    left: 43.26%;
+    right: 43.12%;
+    top: 12%;
+    bottom: 81.59%;
+    color: white
+
+}
+
+main section#servicios article#experiencia { }
+main section#servicios article#experiencia div#experiencia {
+
+    
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 186px;
+    right: 100px;
+    top: 30%;
+    bottom: 10%;
+
+}
+main section#servicios article#experiencia div#experiencia img { }
+main section#servicios article#experiencia div#experiencia h3 { 
+
+    color: #FFFFFF;
+    text-align: center;
+
+}
+main section#servicios article#experiencia div#experiencia p { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
+main section#servicios article#conocimiento { }
+main section#servicios article#conocimiento div#conocimiento { 
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 568px;
+    right: 400px;
+    top: 30%;
+    bottom: 10%;
+
+
+}
+main section#servicios article#conocimiento div#conocimiento img {  }
+main section#servicios article#conocimiento div#conocimiento a img 
+
+{   position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 80px;
+    top: 350px; }
+
+
+main section#servicios article#conocimiento div#conocimiento h3 { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
+main section#servicios article#conocimiento div#conocimiento p { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;}
+
+
+main section#servicios article#pasion { }
+main section#servicios article#pasion div#pasion { 
+    
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 950px;
+    right: 700px;
+    top: 30%;
+    bottom: 10%;
+
+}
+main section#servicios article#pasion div#pasion img { }
+main section#servicios article#pasion div#pasion h3 { 
+
+    text-align: center;
+    color: #FFFFFF;
+}
+main section#servicios article#pasion div#pasion p { 
+
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+
+
+}
+
+
+main section#fundacioncecamilo1 { 
+
+    width: 1440px;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #ECEAEA
+
+
+}
+
+
+
+
+main section#fundacioncecamilo1 article#fundacioncecamilo1 { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 figure { }
+main section#fundacioncecamilo1 article#fundacioncecamilo1 figure img {
+
+    left: 100px;
+    right: 500px;
+    top: 150px;
+    bottom: 0%;
+    position: relative;
+
+}
+main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 {     
+    
+    
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 65%;
+    right: 10%;
+    top: 30%;
+    bottom: 10%; }
+
+main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 h2 { 
+
+   color: #494949;
+
+}
+main section#fundacioncecamilo1 article#fundacioncecamilo1 div#fundacioncecamilo1 p { 
+
+    line-height: 27px;
+    color: #494949;
+}
+
+
+
+footer {     
+    
+    width: 100%;
+    height: 800px;
+    display: block;
+    margin:  0 auto;
+    float: none;
+    position: relative;
+    background: #18142D;
+}
+
+
+footer section#alejandracomas { }
+footer section#alejandracomas nav#menuredes  {    
+    
+    left: 50px;
+    right; 100px;
+    top; 50px;
+    bottom: 250px;
+    display: block;
+    position: relative;
+    margin: 0px 0px 0px -30px;
+
+    
+}
+
+
+footer section#alejandracomas nav#menuredes  a  { }
+footer section#alejandracomas  a img { 
+
+    left: 150px;
+    right; 600px;
+    margin: 0px 80px 0px 0px;
+    top; 600px;
+    bottom: -450px;
+    position: relative;
+}
+
+
+
+footer section#alejandracomas article#formulario { }
+
+footer section#alejandracomas article#formulario div#formulario {
+
+    left: 700px;
+    right; 100px;
+    margin: 0px 80px 0px 0px;
+    top; 100px;
+    bottom: 0px;
+    position: relative;
+
+}
+
+
+
+
+main #identidadcorporativa
+main section#identidadcorporativa {
+
+    width: 1440px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+
+}
+
+main section#identidadcorporativa article#identidadcorporativa { 
+    
+    width: 1440px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#identidadcorporativa article#identidadcorporativa div#parrafo1 {
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 130px;
+    bottom: 100px;
+    color: #696464
+
+}
+main section#identidadcorporativa article#identidadcorporativa div#parrafo1 h1 { 
+
+    color: #494949;
+    line-height: 27px;
+    
+}
+main section#identidadcorporativa article#identidadcorporativa div#parrafo1 p {
+
+    line-height: 27px;
+    color: #494949;
+
+}
+main section#identidadcorporativa figure { }
+main section#identidadcorporativa figure img {    
+    
+    margin: 80px 50px 200px 450px;  }
+
+
+main section#proyectos { 
+
+    width: 1440px;
+    height: 650px;
+    display: block;
+    margin: -50px 0px -16px 0px;
+    float: none;
+    position: relative; 
+    background: #F1EFEF
+
+}
+main section#proyectos h3 {     
+    
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464 }
+
+main section#proyectos article#riodefuego { }
+main section#proyectos article#riodefuego div#riodefuego {
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 186px;
+    right: 100px;
+    top: 30%;
+    bottom: 10%;
+
+}
+main section#proyectos article#riodefuego div#riodefuego img { }
+main section#proyectos article#riodefuego div#riodefuego p { 
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+
+}
+
+
+main section#proyectos { }
+main section#proyectos h3 { 
+    
+    color: #696464;
+    text-align: center;
+}
+main section#proyectos article#appdelcaribe { }
+main section#proyectos article#appdelcaribe div#appdelcaribe { 
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 568px;
+    right: 400px;
+    top: 30%;
+    bottom: 10%;
+
+}
+main section#proyectos article#appdelcaribe div#appdelcaribe img { }
+main section#proyectos article#appdelcaribe div#appdelcaribe p { 
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+}
+
+
+main section#proyectos { }
+main section#proyectos h3 {     
+    
+    line-height: 21px;
+    color: #696464;
+    text-align: center; }
+
+
+main section#proyectos article#amatista { }
+main section#proyectos article#amatista div#amatista {
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 950px;
+    right: 700px;
+    top: 30%;
+    bottom: 10%;
+}
+main section#proyectos article#amatista div#amatista img { }
+main section#proyectos article#amatista div#amatista p { 
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+
+}
+
+
+main section#fundacioncecamilo { 
+    
+    width: 1440px;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #ECEAEA
+    
+
+
+}
+main section#fundacioncecamilo article#fundacioncecamilo { }
+main section#fundacioncecamilo article#fundacioncecamilo figure { }
+main section#fundacioncecamilo article#fundacioncecamilo figure img { 
+
+    left: 100px;
+    right: 500px;
+    top: 150px;
+    bottom: 0%;
+    position: relative;
+
+}
+main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo { 
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 65%;
+    right: 10%;
+    top: 30%;
+    bottom: 10%;
+
+}
+main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo h2 { 
+    
+   color: #494949;
+
+}
+main section#fundacioncecamilo article#fundacioncecamilo div#fundacioncecamilo p { 
+
+    line-height: 27px;
+    color: #494949;
+}
+
+
+main section#riodefuego { 
+
+    width: 1440px;
+    height: 750px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #FFFFFF 
+
+
+}
+main section#riodefuego article#riodefuego { }
+main section#riodefuego article#riodefuego div#riodefuego { 
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 30%;
+    bottom: 10%;
+
+
+}
+main section#riodefuego article#riodefuego div#riodefuego p { 
+
+    line-height: 27px;
+    color: #494949;
+
+}
+main section#riodefuego article#riodefuego figure { }
+main section#riodefuego article#riodefuego figure img {
+
+    margin: 150px 55px 0px 550px; 
+
+}
+
+
+main section#cuadros { 
+
+    width: 1440px;
+    height: 780px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #F1EFEF 
+
+
+
+}
+main section#cuadros article#cuadros { }
+main section#cuadros article#cuadros div#cuadros { }
+main section#cuadros article#cuadros div#cuadros h3 { 
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464; }
+
+}
+main section#cuadros figure { }
+main section#cuadros figure img { 
+    
+    
+    position: absolute;
+    width: 910px;
+    height: 425px;
+    left: 264px;
+    top: 30%;
+
+}
+
+
+
+footer {     
+    
+    width: 100%;
+    height: 800px;
+    display: block;
+    margin:  0 auto;
+    float: none;
+    position: relative;
+    background: #18142D;
+}
+
+
+footer section#alejandracomas { }
+footer section#alejandracomas nav#menuredes  {    
+    
+    left: 50px;
+    right; 100px;
+    top; 50px;
+    bottom: 250px;
+    display: block;
+    position: relative;
+    margin: 0px 0px 0px -30px;
+
+    
+}
+
+
+footer section#alejandracomas nav#menuredes  a  { }
+footer section#alejandracomas  a img { 
+
+    left: 150px;
+    right; 600px;
+    margin: 0px 80px 0px 0px;
+    top; 600px;
+    bottom: -450px;
+    position: relative;
+}
+
+
+
+footer section#alejandracomas article#formulario { }
+
+footer section#alejandracomas article#formulario div#formulario {
+
+    left: 700px;
+    right; 100px;
+    margin: 50px 80px 0px 0px;
+    top; 200px;
+    bottom: 0px;
+    position: relative;
+
+}
+main#ilustracion
+
+main section#ilustracion { 
+
+    width: 1440px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+
+
+}
+main section#ilustracion article#ilustracion { 
+
+    width: 1440px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#ilustracion article#ilustracion div#parrafo1 { 
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 130px;
+    bottom: 100px;
+    color: #696464
+
+}
+main section#ilustracion article#ilustracion div#parrafo1 h1 { 
+
+    color: #494949;
+    line-height: 27px;
+
+}
+main section#ilustracion article#ilustracion div#parrafo1 p { 
+
+    line-height: 27px;
+    color: #494949;
+
+}
+
+main section#ilustracion figure { }
+main section#ilustracion figure img { 
+
+    margin: 80px 50px 200px 450px;
+}
+
+
+main section#plantas { 
+
+    width: 1440px;
+    height: 650px;
+    display: block;
+    margin: -50px 0px -16px 0px;
+    float: none;
+    position: relative; 
+    background: #F1EFEF
+
+
+
+}
+main section#plantas h3 { 
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464
+
+
+}
+
+main section#plantas article#dionaea {}
+
+main section#plantas article#dionaea div#dionaea {
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 186px;
+    right: 100px;
+    top: 30%;
+    bottom: 10%;
+
+
+}
+main section#plantas article#dionaea div#dionaea img { }
+main section#plantas article#dionaea div#dionaea p {
+
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+
+
+}
+
+
+main section#plantas { }
+main section#plantas h3 { 
+
+    color: #696464;
+    text-align: center;
+
+}
+main section#plantas article#cactus { }
+main section#plantas article#cactus div#cactus {
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 568px;
+    right: 400px;
+    top: 30%;
+    bottom: 10%;
+
+}
+
+main section#plantas article#cactus div#cactus img { }
+main section#plantas article#cactus div#cactus p {
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+
+}
+
+
+main section#plantas { }
+main section#plantas h3 { 
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+
+}
+
+
+main section#plantas article#sarracenia { }
+main section#plantas article#sarracenia div#sarracenia { 
+
+
+    width: 205px;
+    height: 580px;
+    position: absolute;
+    left: 950px;
+    right: 700px;
+    top: 30%;
+    bottom: 10%;
+}
+main section#plantas article#sarracenia div#sarracenia img { }
+main section#plantas article#sarracenia div#sarracenia p { 
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+
+}
+
+
+main section#iconos {
+    
+    
+    width: 1440px;
+    height: 750px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #FFFFFF
+
+}
+
+
+main section#iconos h3 {
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 20%;
+    bottom: 50%;
+    color: #696464;
+    
+}
+main section#iconos article#animales { }
+main section#iconos article#animales figure { }
+main section#iconos article#animales figure  img {
+
+   margin: 300px 55px 0px 0px; 
+
+}
+
+
+main section#caa { 
+
+    width: 1440px;
+    height: 780px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #F1EFEF 
+
+}
+main section#caa article#caa { }
+main section#caa article#caa div#caa { }
+main section#caa article#caa div#caa h3 { 
+
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464;
+
+}
+main section#caa figure { }
+main section#caa figure img {
+
+    position: absolute;
+    width: 910px;
+    height: 425px;
+    left: 264px;
+    top: 30%;
+
+}
+
+
+footer {     
+    
+    width: 100%;
+    height: 800px;
+    display: block;
+    margin:  0 auto;
+    float: none;
+    position: relative;
+    background: #18142D;
+}
+
+
+footer section#alejandracomas { }
+footer section#alejandracomas nav#menuredes  {    
+    
+    left: 50px;
+    right; 100px;
+    top; 50px;
+    bottom: 250px;
+    display: block;
+    position: relative;
+    margin: 0px 0px 0px -30px;
+
+    
+}
+
+
+footer section#alejandracomas nav#menuredes  a  { }
+footer section#alejandracomas  a img { 
+
+    left: 150px;
+    right; 600px;
+    margin: 0px 80px 0px 0px;
+    top; 600px;
+    bottom: -450px;
+    position: relative;
+}
+
+
+
+footer section#alejandracomas article#formulario { }
+
+footer section#alejandracomas article#formulario div#formulario {
+
+    left: 700px;
+    right; 100px;
+    margin: 50px 80px 0px 0px;
+    top; 200px;
+    bottom: 0px;
+    position: relative;
+
+}
+
+
+main#fotografia
+main section#fotografia {
+
+    left: 700px;
+    right; 100px;
+    margin: 50px 80px 0px 0px;
+    top; 200px;
+    bottom: 0px;
+    position: relative;
+
+}
+main section#fotografia article#fotografia { 
+
+    width: 1440px;
+    height: 580;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#fotografia article#fotografia div#parrafo1 {
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 130px;
+    bottom: 100px;
+    color: #696464
+
+}
+
+main section#fotografia article#fotografia div#parrafo1 h1 {
+
+    color: #494949;
+    line-height: 27px;
+
+}
+main section#fotografia article#fotografia div#parrafo1 p { 
+    
+    line-height: 27px;
+    color: #494949;
+
+}
+main section#fotografia figure { }
+main section#fotografia figure img { 
+
+ margin: 80px 50px 200px 450px;
+}
+
+
+main section#espacios { 
+
+    width: 1440px;
+    height: 650px;
+    display: block;
+    margin: -50px 0px -16px 0px;
+    float: none;
+    position: relative; 
+    background: #E9E7E7
+
+}
+
+main section#espacios h3 { 
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464
+
+}
+
+
+main section#espacios article#zonasverdes div#zonasverdes {
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 186px;
+    right: 100px;
+    top: 30%;
+    bottom: 10%;
+}
+main section#espacios article#zonasverdes div#zonasverdes img { }
+main section#espacios article#zonasverdes div#zonasverdes p { 
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+    margin: 40px 0px 0px 30px
+}
+
+
+main section#espacios article#discapacidad div#discapacidad { 
+    
+    
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 568px;
+    right: 400px;
+    top: 30%;
+    bottom: 10%;
+
+}
+
+main section#espacios article#discapacidad div#discapacidad img { 
+    
+    
+}
+main section#espacios article#discapacidad div#discapacidad p { 
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+    margin: 40px 0px 0px 10px
+
+}
+
+
+main section#espacios { }
+main section#espacios article#mar div#mar {
+
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    left: 950px;
+    right: 700px;
+    top: 30%;
+    bottom: 10%;
+
+
+}
+main section#espacios article#mar div#mar img { }
+main section#espacios article#mar div#mar p {
+
+
+
+    line-height: 21px;
+    color: #696464;
+    text-align: center;
+    margin: 40px 0px 0px 30px
+
+}
+
+
+main section#muelle { 
+    
+    width: 1440px;
+    height: 780px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #F1EFEF 
+
+
+}
+
+main section#muelle h3 {
+
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464;
+
+}
+
+main section#muelle figure  { }
+main section#muelle figure img {
+
+
+    position: absolute;
+    width: 910px;
+    height: 425px;
+    left: 264px;
+    top: 30%;
+    
+}
+
+
+main section#variedadplantas {
+
+    width: 1440px;
+    height: 780px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative; 
+    background: #F1EFEF 
+
+
+}
+
+main section#variedadplantas h3 { 
+
+
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    top: 12%;
+    bottom: 81.59%;
+    color: #696464;
+
+}
+main section#variedadplantas article#plantas figure { }
+main section#variedadplantas article#plantas figure img {
+
+
+    
+
+}
+
+
+
+
+footer {     
+    
+    width: 100%;
+    height: 800px;
+    display: block;
+    margin:  0 auto;
+    float: none;
+    position: relative;
+    background: #18142D;
+}
+
+
+footer section#alejandracomas { }
+footer section#alejandracomas nav#menuredes  {    
+    
+    left: 50px;
+    right; 100px;
+    top; 50px;
+    bottom: 250px;
+    display: block;
+    position: relative;
+    margin: 0px 0px 0px -30px;
+
+    
+}
+
+
+footer section#alejandracomas nav#menuredes  a  { }
+footer section#alejandracomas  a img { 
+
+    left: 150px;
+    right; 600px;
+    margin: 0px 80px 0px 0px;
+    top; 600px;
+    bottom: -450px;
+    position: relative;
+}
+
+
+
+footer section#alejandracomas article#formulario { }
+
+footer section#alejandracomas article#formulario div#formulario {
+
+    left: 700px;
+    right; 100px;
+    margin: 50px 80px 0px 0px;
+    top; 200px;
+    bottom: 0px;
+    position: relative;
+
 }
 
 @media only screen and (max-width: 1199px){
